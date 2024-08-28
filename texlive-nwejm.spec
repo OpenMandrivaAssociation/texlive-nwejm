@@ -1,6 +1,6 @@
 Name:		texlive-nwejm
-Version:	64462
-Release:	2
+Version:	70597
+Release:	1
 Summary:	Support for the journal "North-Western European Journal of Mathematics"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nwejm
