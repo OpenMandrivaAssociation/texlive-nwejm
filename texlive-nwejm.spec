@@ -3,7 +3,7 @@ Version:	70597
 Release:	1
 Summary:	Support for the journal "North-Western European Journal of Mathematics"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nwejm
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/nwejm
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nwejm.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nwejm.doc.r%{version}.tar.xz
